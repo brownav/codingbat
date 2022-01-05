@@ -1,2 +1,2 @@
 # codingbat
-Stores codingbat problems: https://codingbat.com/about.html
+Solutions to codingbat problems: https://codingbat.com
