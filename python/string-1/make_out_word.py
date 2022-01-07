@@ -5,4 +5,4 @@
 # make_out_word('[[]]', 'word') → '[[word]]'
 
 def make_out(out, word):
-    return out[:2] + word + out[:-2]
+    return out[:2] + word + out[-2:]
