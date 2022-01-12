@@ -5,7 +5,5 @@
 # near_ten(19) → True
 
 def near_ten(num):
-    return (num % 10) <= 2
-
-
-near_ten(158)
+    remainder = num % 10
+    return remainder <= 2 or remainder >= 8
