@@ -13,3 +13,7 @@ def big_diff(nums):
         max_num = max(nums[i], max_num)
 
     return max_num - min_num
+
+
+def big_diff(nums):
+    return max(nums) - min(nums)
