@@ -1,2 +1,5 @@
 # codingbat
-Solutions to codingbat problems: https://codingbat.com
+
+https://codingbat.com
+
+Python solutions to codingbat problems. 
